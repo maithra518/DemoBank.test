@@ -1,0 +1,9 @@
+Demobank\testcases\BaseClass.class
+Demobank\utils\ReadConfig.class
+Demobank\pageobjects1\AddCustomerPage.class
+Demobank\testcases\TC_AddNewCustomer_003.class
+Demobank\pageobjects1\LoginPage.class
+Demobank\testcases\TC_LoginDDT_002.class
+Demobank\utils\Reporting.class
+Demobank\testcases\TC_LoginTest_001.class
+Demobank\utils\XLUtils.class
